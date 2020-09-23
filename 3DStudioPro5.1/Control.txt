@@ -1,0 +1,27 @@
+
+Actions : Arrows, PageUp and PageDown
+
+Camera____________________________________
+    
+	Look at Point		Q + Actions
+	World position		W + Actions
+	Zoom			Z + Actions
+        
+Mesh______________________________________
+
+	Rotate	           Mouse  or  R + Actions
+	Scale			S + Actions
+	Translate			T + Actions
+
+Light_____________________________________
+    
+	Translate			L + Actions
+
+Other_____________________________________
+        
+	Reset Camera Parameters	C
+	Reset Mesh Parameters	X
+	ResetLightParameters	V
+	Import 3DS		Ctrl + I
+	Export BMP		Ctrl + E
+	Exit			Escape  
